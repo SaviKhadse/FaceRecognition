@@ -1,3 +1,11 @@
+Face Recognition (Artificial Intelligence and Machine Learning) 
+
+Developed Face recognition software using Machine learning algorithm (Logistic, SVM and Naïve Bayes) & python. Face recognition technology can match a human face from a digital image or a video frame against a database of faces. Used Principal component analysis to reduce the large dataset and applied Support Vector Machine, logistic regression, and K-means algorithm to calculate the accuracy of a model.
+
+
+Technology Stack: Machine Learning, sci-kit, Python, Object-Oriented-Programming
+
+
 # FaceRecognition
 
 Face recognition technology is used to find a series of data of the same face in a set of training images in a database from the incoming image. 
